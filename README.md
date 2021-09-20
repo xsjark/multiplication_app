@@ -6,15 +6,15 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=150px src="https://raw.githubusercontent.com/xsjark/food_app/main/screenshots/login.jpg" alt="Project logo"></a>
+ <img width=150px src="https://raw.githubusercontent.com/xsjark/multiplication_app/master/screenshots/login.jpg" alt="Project logo"></a>
  <a href="" rel="noopener">
- <img width=150px src="https://raw.githubusercontent.com/xsjark/food_app/main/screenshots/home.jpg" alt="Project logo"></a>
+ <img width=150px src="https://raw.githubusercontent.com/xsjark/multiplication_app/master/screenshots/home.jpg" alt="Project logo"></a>
  <a href="" rel="noopener">
- <img width=150px src="https://raw.githubusercontent.com/xsjark/food_app/main/screenshots/ranking" alt="Project logo"></a>
+ <img width=150px src="https://raw.githubusercontent.com/xsjark/multiplication_app/master/screenshots/ranking.jpg" alt="Project logo"></a>
  <a href="" rel="noopener">
- <img width=150px src="https://raw.githubusercontent.com/xsjark/food_app/main/screenshots/signout.jpg" alt="Project logo"></a>
+ <img width=150px src="https://raw.githubusercontent.com/xsjark/multiplication_app/master/screenshots/signout.jpg" alt="Project logo"></a>
  <a href="" rel="noopener">
- <img width=150px src="https://raw.githubusercontent.com/xsjark/food_app/main/screenshots/navigation.jpg" alt="Project logo"></a>
+ <img width=150px src="https://raw.githubusercontent.com/xsjark/multiplication_app/master/screenshots/navigation.jpg" alt="Project logo"></a>
 </p>
 
 ## 📝 Table of Contents
