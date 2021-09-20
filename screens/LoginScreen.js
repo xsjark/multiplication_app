@@ -158,11 +158,12 @@ const styles = StyleSheet.create({
   logo : {
     height: 300,
     width: 300,
-    marginBottom: 20
+    marginBottom: 20,
   },
   spinner: {
     flex: 1,
     alignItems: "center",
-    backgroundColor: "white"
+    backgroundColor: "white",
+    width: "100%"
   }
 });
