@@ -9,6 +9,7 @@ import {
 import * as firebase from "firebase";
 import { Button, Image, Text, } from "react-native-elements";
 import { Asset } from 'expo-asset';
+import FastImage from 'react-native-fast-image'
 
 import * as Localization from 'expo-localization';
 import i18n from 'i18n-js';
@@ -22,6 +23,7 @@ export default function LoginScreen() {
   const [email, setEmail] = React.useState("");
   const [password, setPassword] = React.useState("");
   const logo = require("../assets/logo.png")
+
 
   const handleLogin = () => {
     firebase
@@ -85,7 +87,8 @@ export default function LoginScreen() {
     <View style={styles.container}>
       {logo ? (
         <>
-      <Image source={logo} style={styles.logo}/>
+      <Image source={logo} style={styles.logo} PlaceholderContent={      <ActivityIndicator size="large" color="#313639" style={styles.spinner} />
+}/>
       <TextInput
         style={styles.spacedinput}
         placeholder={i18n.t("username")}
@@ -156,5 +159,10 @@ const styles = StyleSheet.create({
     height: 300,
     width: 300,
     marginBottom: 20
+  },
+  spinner: {
+    flex: 1,
+    alignItems: "center",
+    backgroundColor: "white"
   }
 });
